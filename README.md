@@ -1,4 +1,4 @@
-# # Algebraic Reconstruction Technique (ART)
+### Algebraic Reconstruction Technique (ART)
 
 ## Overview
 
